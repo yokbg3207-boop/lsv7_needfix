@@ -17,7 +17,8 @@ import {
   BarChart3,
   Crown,
   Clock,
-  ArrowRight
+  ArrowRight,
+  CreditCard
 } from 'lucide-react';
 
 export default function DashboardLayout() {
